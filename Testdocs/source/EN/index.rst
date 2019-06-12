@@ -2,5 +2,9 @@ Englisch Docs
 =============
 
 bla bla
-
-'test'</test.md>
+.. toctree::
+   :maxdepth: 1
+   :caption: Documentation
+   :glob:
+   
+   'test'</test.md>
