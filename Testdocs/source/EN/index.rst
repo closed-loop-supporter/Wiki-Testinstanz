@@ -7,4 +7,4 @@ bla bla
    :maxdepth: 1
    :glob:
    
-   test<./test.md>
+   test
