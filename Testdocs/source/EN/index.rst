@@ -5,6 +5,6 @@ bla bla
 
 .. toctree::
    :maxdepth: 1
-   :glob:
+   
    
    test
