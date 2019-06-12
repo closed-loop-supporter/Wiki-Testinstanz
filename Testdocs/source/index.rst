@@ -5,7 +5,7 @@ testbeispiel
 
 .. toctree::
    :maxdepth:1
-   :caption:
+   :caption: Dokumentation
    :glob:
    
    EN </EN/index>
