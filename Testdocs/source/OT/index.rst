@@ -4,6 +4,6 @@ Others
 .. toctree::
    :maxdepth: 1
    :glob:
-   test<./test>
+   test<./test.rst>
 
 weiteres blabla
