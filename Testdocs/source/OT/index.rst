@@ -3,6 +3,7 @@ Others
 
 .. toctree::
    :maxdepth: 1
-   test </test.rst>
+   :glob:
+   test <./test.rst>
 
 weiteres blabla
