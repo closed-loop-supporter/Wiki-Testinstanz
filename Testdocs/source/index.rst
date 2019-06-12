@@ -10,8 +10,9 @@ Welcome to Testwiki's documentation!
    :maxdepth:1
    :caption:
    :glob:
-   EN <EN/index>
-   others <OT/index>
+   
+   EN </EN/index>
+   others </OT/index>
 
         
 
