@@ -7,8 +7,13 @@ Welcome to Testwiki's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth:1
+   :caption:
+   :glob:
+   EN <EN/index>
+   others <OT/index>
+
+        
 
 
 
